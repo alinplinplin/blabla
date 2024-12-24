@@ -9,3 +9,15 @@ img {
 .container {
     width: 800px;
 }
+
+#gto-prompt-output {
+    padding: 20px;
+    margin: 20px auto;
+    border: 1px solid #ccc;
+    background-color: #f9f9f9;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    color: #333;
+    max-width: 750px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
