@@ -9,3 +9,32 @@ img {
 .container {
     width: 800px;
 }
+
+main h1 {
+    font-size: 2em;
+    margin-bottom: 0.5em;
+    text-align: center;
+}
+
+main p {
+    font-size: 1.2em;
+    line-height: 1.5;
+    margin-bottom: 1em;
+    text-align: center;
+}
+
+footer {
+    background-color: #f8f8f8;
+    padding: 1em 0;
+    text-align: center;
+    border-top: 1px solid #e7e7e7;
+}
+
+footer a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
